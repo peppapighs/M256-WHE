@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "OH49E-S"
+	(symbol "DRV5055A3xDBZx"
 		(pin_names
 			(offset 0.254)
 		)
@@ -17,7 +17,7 @@
 				)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3xDBZx"
 			(at 0 3.175 0)
 			(effects
 				(font
@@ -36,7 +36,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -63,7 +63,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "OH49E-S_0_1"
+		(symbol "DRV5055A3xDBZx_0_1"
 			(rectangle
 				(start -5.08 1.905)
 				(end 5.08 -5.08)
@@ -76,7 +76,7 @@
 				)
 			)
 		)
-		(symbol "OH49E-S_1_1"
+		(symbol "DRV5055A3xDBZx_1_1"
 			(pin power_in line
 				(at -7.62 0 0)
 				(length 2.54)

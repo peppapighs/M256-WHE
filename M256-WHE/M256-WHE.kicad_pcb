@@ -15158,7 +15158,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "2393f91f-6873-4fdf-8614-cf61c1d55755")
@@ -15170,7 +15170,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -15496,7 +15496,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "8c21a895-9378-4138-802b-baede9cabe4b")
@@ -15508,7 +15508,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -15834,7 +15834,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "41cafd13-1396-4c8b-946a-7c93b03babd0")
@@ -15846,7 +15846,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -16784,7 +16784,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "a93a423b-090e-4626-9160-c7fea5dbb249")
@@ -16796,7 +16796,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -17530,7 +17530,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "cb46dd0e-9072-4135-ac94-733aa3885594")
@@ -17542,7 +17542,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -18480,7 +18480,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "349f0b76-5a6d-448f-a463-74ce10768fd7")
@@ -18492,7 +18492,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -18818,7 +18818,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "4499c87a-469c-4bbf-8291-0d2fb0487bf5")
@@ -18830,7 +18830,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -19360,7 +19360,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "f2a66375-84ab-4365-899f-cbe9bf44b032")
@@ -19372,7 +19372,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -19698,7 +19698,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "a5f6af6c-1dab-419c-9eeb-24bf8bf0b79c")
@@ -19710,7 +19710,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -20036,7 +20036,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "e850b366-0d5c-4192-9a47-b7494a4ccb4f")
@@ -20048,7 +20048,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -20782,7 +20782,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "235e862c-f7e5-40f5-b623-d4b5d0e5cfed")
@@ -20794,7 +20794,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21120,7 +21120,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "e86afc14-fe0f-4fed-86cf-738752a830ee")
@@ -21132,7 +21132,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -22274,7 +22274,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "fe0249fb-f37c-4725-b953-b3a74bf60b1c")
@@ -22286,7 +22286,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -24326,7 +24326,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "99b2f479-5ddd-4b75-ad5f-a4018c521e71")
@@ -24338,7 +24338,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -25744,7 +25744,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "871257b9-94e5-402a-8a4b-5223dfe066cf")
@@ -25756,7 +25756,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -26082,7 +26082,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "c4e0f229-8b0e-4643-a36a-72d13ecc207e")
@@ -26094,7 +26094,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -26420,7 +26420,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "b4e24912-7635-4fff-a494-b887a1a0cbd6")
@@ -26432,7 +26432,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -27449,7 +27449,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "988703fd-fc3a-4f29-a282-c71a714c9337")
@@ -27461,7 +27461,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -28603,7 +28603,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "6d7dc036-cdeb-48df-b47e-644ddc542f6f")
@@ -28615,7 +28615,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -28941,7 +28941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "f806870e-68de-4116-837b-1b1c43f4d5db")
@@ -28953,7 +28953,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -30299,7 +30299,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "b11a2bc4-4c0d-4705-82a1-fa72d7a945b2")
@@ -30311,7 +30311,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -31249,7 +31249,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "e5b64448-2e15-4157-9a63-7527a8e71c7d")
@@ -31261,7 +31261,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -32403,7 +32403,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "8e3f5722-f0b6-49e9-ab48-fc5d40eccb7e")
@@ -32415,7 +32415,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -32741,7 +32741,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "1515b10e-c652-4ed3-a4a6-1c4c9c066063")
@@ -32753,7 +32753,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -33751,7 +33751,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "57bf9e09-b7d5-446c-b86b-8f76f4998190")
@@ -33763,7 +33763,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -34497,7 +34497,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "4716baf4-f5a6-4d9b-a830-a701c24b41ef")
@@ -34509,7 +34509,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -35507,7 +35507,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "7f63e894-0fd0-4fc7-946d-99526af3ede3")
@@ -35519,7 +35519,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -36457,7 +36457,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "e6cf824b-9aaa-48ed-a00e-b58fafbf11af")
@@ -36469,7 +36469,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -36999,7 +36999,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "83174ca3-7986-4bc3-bfe1-c75b48adc5fd")
@@ -37011,7 +37011,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -37541,7 +37541,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "b195d699-ce80-4ca3-b116-80d4b0ba84a4")
@@ -37553,7 +37553,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -38083,7 +38083,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "8ecbe530-a4ba-4244-bc36-c3f579e36ae6")
@@ -38095,7 +38095,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -38625,7 +38625,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "b26864d3-22ae-4cdc-9bdd-96ac75caccc6")
@@ -38637,7 +38637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -39677,7 +39677,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "784cf6aa-50f6-497d-96a4-8aede6016e43")
@@ -39689,7 +39689,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -40219,7 +40219,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "7ebfd671-b5eb-4827-b1ef-82c4aebd2c25")
@@ -40231,7 +40231,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -41863,7 +41863,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "455b4de2-a4b2-47e2-a510-ebc140089d17")
@@ -41875,7 +41875,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42201,7 +42201,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "edbec1c8-c968-4d0e-b8be-e1f93b21f486")
@@ -42213,7 +42213,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42743,7 +42743,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "38ab8d5e-1317-438b-bca1-a6b9ac2b241c")
@@ -42755,7 +42755,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -43081,7 +43081,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "b4ffae2a-d234-4e22-8811-c99403908a46")
@@ -43093,7 +43093,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -43419,7 +43419,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "f7d2b674-8124-4951-9106-dbdd8d7c1390")
@@ -43431,7 +43431,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -44523,7 +44523,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "f69fdbcb-69bc-4a6f-9d3d-db317dfa4333")
@@ -44535,7 +44535,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -45065,7 +45065,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "7c59295e-8cea-4331-a809-d7fff3ec1162")
@@ -45077,7 +45077,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46075,7 +46075,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "d7f2d537-9f0f-462f-9117-3e9adb184168")
@@ -46087,7 +46087,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46413,7 +46413,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "80d8b52d-1a95-4636-b884-8a1dbbe585e4")
@@ -46425,7 +46425,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46751,7 +46751,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "ac48b62b-248f-4f5f-9c09-38dd499211d5")
@@ -46763,7 +46763,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -47557,7 +47557,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "26a2169c-9e54-4917-a503-214950a6425b")
@@ -47569,7 +47569,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -48099,7 +48099,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "129d86cf-dbba-455a-8567-d4e8030a003a")
@@ -48111,7 +48111,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -48845,7 +48845,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "a58f99dd-9bd9-4780-8163-8dac7d7445a9")
@@ -48857,7 +48857,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -49183,7 +49183,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "9cc5020f-7bf5-4dab-b155-194985beb3c5")
@@ -49195,7 +49195,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -49929,7 +49929,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "9c345323-8bce-4668-90bc-d7fe553ed1b0")
@@ -49941,7 +49941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -50879,7 +50879,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "42ef7554-0873-4092-aca8-275ec1128569")
@@ -50891,7 +50891,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -51685,7 +51685,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "9a0d351e-8202-4421-9f71-b1e419592551")
@@ -51697,7 +51697,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -52023,7 +52023,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "339471e0-36b3-42d5-aa57-0d58a602f6f9")
@@ -52035,7 +52035,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -52361,7 +52361,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "f5a2e7f2-6a08-43ee-a3f5-2e897f3cc74d")
@@ -52373,7 +52373,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -53311,7 +53311,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "4c98435d-e250-405f-8ff4-108de87694f7")
@@ -53323,7 +53323,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -53649,7 +53649,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "33bd2bfc-5d4c-4f9b-b835-673e44203898")
@@ -53661,7 +53661,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -54191,7 +54191,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "1142afdf-538a-4357-aaa8-61ac8d12423c")
@@ -54203,7 +54203,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -54529,7 +54529,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "890f8093-313f-4eb6-8037-d529cfe5e2be")
@@ -54541,7 +54541,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -55647,7 +55647,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "c4fac77a-f62c-46be-a0d2-a080b37fd20d")
@@ -55659,7 +55659,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -56189,7 +56189,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "21d0ac90-fd79-43f1-888f-404261b27c7b")
@@ -56201,7 +56201,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -56731,7 +56731,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "ff01056e-0ad1-4861-a7fe-d66661f98605")
@@ -56743,7 +56743,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -57069,7 +57069,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "fcc09647-caee-4407-9c6f-ac086f355151")
@@ -57081,7 +57081,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -57407,7 +57407,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "578f5b2b-8cf4-4f8d-a5ba-8533203363cd")
@@ -57419,7 +57419,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -57949,7 +57949,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "f7de0055-d853-427a-bcb5-277245eea7dd")
@@ -57961,7 +57961,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -60699,7 +60699,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "5011e6d4-0e4a-4253-a3f4-30654e282d75")
@@ -60711,7 +60711,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -61037,7 +61037,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "f54a670c-3066-4c4f-8917-9ebbcd43255c")
@@ -61049,7 +61049,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -61843,7 +61843,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "87ec2645-14d6-4866-8e48-08c577a7532a")
@@ -61855,7 +61855,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -63091,7 +63091,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "e8c18e9d-79a1-4f27-86e2-5b2a4dad0748")
@@ -63103,7 +63103,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -64245,7 +64245,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "OH49E-S"
+		(property "Value" "DRV5055A3QDBZR"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "76e9fd16-5649-4f61-8679-a363fc3ccf7e")
@@ -64257,7 +64257,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://ohhallsensor.com/wp-content/uploads/2020/08/OH49E-OH49E-S-Hall-effect-linear-IC.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv5055.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -113181,7 +113181,6 @@
 				(xy 223.388913 80.143738) (xy 223.734084 79.750146) (xy 224.052773 79.334822) (xy 224.343617 78.899543)
 				(xy 224.60537 78.446174) (xy 224.836911 77.976656) (xy 225.037247 77.493) (xy 225.205523 76.997277)
 				(xy 225.341016 76.49161) (xy 225.443147 75.978164) (xy 225.511478 75.459137) (xy 225.545717 74.936753)
-				(xy 225.545717 74.413247)
 			)
 		)
 	)
