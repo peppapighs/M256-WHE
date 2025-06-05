@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "M256-WHE")(type "KiCad")(uri "${KIPRJMOD}/lib/M256-WHE.pretty")(options "")(descr ""))
+)
