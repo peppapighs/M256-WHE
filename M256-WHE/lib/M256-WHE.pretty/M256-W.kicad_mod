@@ -929,8 +929,8 @@
 	)
 	(pad "" thru_hole circle
 		(at 24.8455 19.875)
-		(size 6.4 6.4)
-		(drill 4.4)
+		(size 6.3 6.3)
+		(drill 4.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(zone_connect 2)
@@ -956,8 +956,8 @@
 	)
 	(pad "" thru_hole circle
 		(at 261.603125 71.65)
-		(size 6.4 6.4)
-		(drill 4.4)
+		(size 6.3 6.3)
+		(drill 4.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(zone_connect 2)
