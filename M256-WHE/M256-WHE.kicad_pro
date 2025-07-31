@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.4,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -471,7 +471,6 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "SixtyFive_HE",
       "M256-WHE"
     ],
     "pinned_symbol_libs": [
@@ -625,6 +624,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -639,7 +646,7 @@
   },
   "sheets": [
     [
-      "5baa176f-b842-4ff5-ab9e-fdef1bacc62a",
+      "cd7112ae-1c13-486f-8d07-e701a35cfb1b",
       "Root"
     ]
   ],
